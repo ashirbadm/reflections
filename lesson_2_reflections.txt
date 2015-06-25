@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Creates meta data of files and initializes the working enviroment.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Its stores the files that are chosen by user to commit. It allows for version control of existing code.
